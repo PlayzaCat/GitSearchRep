@@ -68,7 +68,7 @@ body {
 
 .btn-close {
     background-repeat: norepeat;
-    background-image: url("/img/Cross.png");
+    background-image: url("img/Cross.png");
     background-color: transparent;
     background-size: contain;
     outline: none;
